@@ -1,0 +1,53 @@
+# Hydra Praxis-Labs
+
+## Sprachen
+
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/opfL1Ca0Wdha.png">
+</div>
+
+Lernen Sie Hydra, ein leistungsstarkes Open-Source-Tool für Passwort-Cracking und Brute-Force-Tests. Dieser Lernpfad bietet umfassende Hydra-Kurse, die für Anfänger in den Bereichen Cybersicherheit und Penetrationstests konzipiert sind. Er bietet einen strukturierten Fahrplan zum Verständnis von Brute-Force-Angriffen, Passwort-Enumeration und Authentifizierungstests. Durch praktische Kurse ohne Videos und praktische Übungen in einer Penetrationstesting-Umgebung sammeln Sie reale Erfahrungen im Umgang mit Hydra, um die Systemsicherheit zu testen und schwache Anmeldeinformationen zu identifizieren.
+
+Durchsuchen Sie bis zu 28 praktische Hydra-Labs von LabEx. Jedes Lab öffnet sich in einer interaktiven Umgebung, damit Sie durch Übung lernen.
+
+|   Index | Name                                                                                                                                            | Skills                         | Schwierigkeit   | Übung                                                                                            |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------|--------------------------------------------------------------------------------------------------|
+|      01 | [Hydra-Verbindungsintervalle steuern](https://labex.io/de/labs/hydra-control-hydra-connection-intervals-550764)                                 | SSH-Prüfung                    | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-control-hydra-connection-intervals-550764)        |
+|      02 | [Brute-Force-Angriffe auf Web-Authentifizierung](https://labex.io/de/labs/linux-web-authentication-brute-force-656162)                          | HTTP-Formularprüfung           | Anfänger        | [Labor Starten](https://labex.io/de/labs/linux-web-authentication-brute-force-656162)            |
+|      03 | [Kali-Passwortangriffe mit Hydra](https://labex.io/de/labs/kali-kali-password-attacks-with-hydra-552296)                                        | Passworteingaben               | Anfänger        | [Labor Starten](https://labex.io/de/labs/kali-kali-password-attacks-with-hydra-552296)           |
+|      04 | [Hydra-Detaillierungsmodus verwenden](https://labex.io/de/labs/hydra-use-hydra-verbose-mode-550777)                                             | FTP-Prüfung                    | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-use-hydra-verbose-mode-550777)                    |
+|      05 | [Zusätzliche Hydra-Passwortprüfungen verwenden](https://labex.io/de/labs/hydra-use-additional-hydra-password-checks-550776)                     | Einzelprüfung von Zugangsdaten | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-use-additional-hydra-password-checks-550776)      |
+|      06 | [Hydra-Angriffe frühzeitig stoppen](https://labex.io/de/labs/hydra-stop-hydra-attacks-early-550774)                                             | Erfolgserkennung               | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-stop-hydra-attacks-early-550774)                  |
+|      07 | [Hydra-Angriffsresultate speichern](https://labex.io/de/labs/hydra-save-hydra-attack-results-550773)                                            | HTTP-Authentifizierungsprüfung | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-save-hydra-attack-results-550773)                 |
+|      08 | [Wiederherstellen einer vorherigen Hydra-Sitzung](https://labex.io/de/labs/hydra-restore-a-previous-hydra-session-550772)                       | Sitzungswiederaufnahme         | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-restore-a-previous-hydra-session-550772)          |
+|      09 | [Passwort-Schleifen in Hydra-Angriffen](https://labex.io/de/labs/hydra-loop-passwords-in-hydra-attacks-550771)                                  | Benutzernameneingaben          | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-loop-passwords-in-hydra-attacks-550771)           |
+|      10 | [Hydra Wiederherstellungsdateien ignorieren](https://labex.io/de/labs/hydra-ignore-hydra-restore-files-550770)                                  | Sitzungswiederaufnahme         | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-ignore-hydra-restore-files-550770)                |
+|      11 | [Passwörter mit Hydra Brute-Force generieren](https://labex.io/de/labs/hydra-generate-passwords-with-hydra-brute-force-550769)                  | Passworteingaben               | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-generate-passwords-with-hydra-brute-force-550769) |
+|      12 | [Hydra-Antwortwartezeiten optimieren](https://labex.io/de/labs/hydra-fine-tune-hydra-response-wait-times-550768)                                | Zielvorgabe                    | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-fine-tune-hydra-response-wait-times-550768)       |
+|      13 | [Hydra-Modulspezifische Optionen erkunden](https://labex.io/de/labs/hydra-explore-hydra-module-specific-options-550767)                         | HTTP-Formularprüfung           | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-explore-hydra-module-specific-options-550767)     |
+|      14 | [Anpassen von Hydra-Portnummern](https://labex.io/de/labs/hydra-customize-hydra-port-numbers-550765)                                            | Benutzerdefinierte Ports       | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-customize-hydra-port-numbers-550765)              |
+|      15 | [Passwort-Cracking mit Hydra](https://labex.io/de/labs/linux-using-hydra-to-crack-passwords-415960)                                             | Passwortsicherheit             | Anfänger        | [Labor Starten](https://labex.io/de/labs/linux-using-hydra-to-crack-passwords-415960)            |
+|      16 | [Angriff mit durch Doppelpunkte getrennten Anmeldeinformationen](https://labex.io/de/labs/hydra-attack-with-colon-separated-credentials-550763) | Zuordnung von Zugangsdaten     | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-with-colon-separated-credentials-550763)   |
+|      17 | [Angriff auf SSL-fähige Dienste mit Hydra](https://labex.io/de/labs/hydra-attack-ssl-enabled-services-with-hydra-550762)                        | TLS-Sicherheit                 | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-ssl-enabled-services-with-hydra-550762)    |
+|      18 | [Angriff auf SMB-Dienste mit Hydra](https://labex.io/de/labs/hydra-attack-smb-services-with-hydra-550761)                                       | Benutzernameneingaben          | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-smb-services-with-hydra-550761)            |
+|      19 | [Angriff auf mehrere Ziele mit Hydra](https://labex.io/de/labs/hydra-attack-multiple-targets-with-hydra-550760)                                 | Mehrere Ziele                  | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-multiple-targets-with-hydra-550760)        |
+|      20 | [Angriff auf IPv6-Ziele mit Hydra](https://labex.io/de/labs/hydra-attack-ipv6-targets-with-hydra-550759)                                        | Zielvorgabe                    | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-ipv6-targets-with-hydra-550759)            |
+|      21 | [Hydra-Threadanzahl anpassen](https://labex.io/de/labs/hydra-adjust-hydra-thread-counts-550758)                                                 | SSH-Prüfung                    | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-adjust-hydra-thread-counts-550758)                |
+|      22 | [SSH-Brute-Force mit Hydra](https://labex.io/de/labs/hydra-brute-force-ssh-in-hydra-549926)                                                     | Paketlebenszyklus              | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-brute-force-ssh-in-hydra-549926)                  |
+|      23 | [Grundlegende Hydra-Befehle lernen](https://labex.io/de/labs/hydra-learn-basic-hydra-commands-549918)                                           | Benutzerdefinierte Ports       | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-learn-basic-hydra-commands-549918)                |
+|      24 | [Hydra installieren und verifizieren](https://labex.io/de/labs/hydra-install-and-verify-hydra-549917)                                           | Befehlsstruktur                | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-install-and-verify-hydra-549917)                  |
+|      25 | [Telnet-Dienste mit Hydra angreifen](https://labex.io/de/labs/hydra-attack-telnet-services-with-hydra-549916)                                   | Servicemodule                  | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-telnet-services-with-hydra-549916)         |
+|      26 | [HTTP-Dienste mit Hydra angreifen](https://labex.io/de/labs/hydra-attack-http-services-with-hydra-549915)                                       | Benutzernameneingaben          | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-http-services-with-hydra-549915)           |
+|      27 | [FTP-Dienste mit Hydra angreifen](https://labex.io/de/labs/hydra-attack-ftp-services-with-hydra-549914)                                         | Passworteingaben               | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-attack-ftp-services-with-hydra-549914)            |
+|      28 | [Hydra Angriffsgeschwindigkeit und Threads anpassen](https://labex.io/de/labs/hydra-adjust-hydra-attack-speed-and-threads-549913)               | Parallelitätskontrolle         | Anfänger        | [Labor Starten](https://labex.io/de/labs/hydra-adjust-hydra-attack-speed-and-threads-549913)     |
+
+[Alle Labs ansehen](https://labex.io/de/learn/hydra).
+
+## Mehr
+
+- 🔗 [Mehr über Hydra auf LabEx erfahren](https://labex.io/de/learn/hydra)
+- 🔗 [Weitere Programmierprojekte entdecken](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Programmierkurse entdecken](https://github.com/labex-labs/awesome-programming-courses)
+
